@@ -9,3 +9,5 @@ OmegaLinux (anteriormente iddyq xd)
 
 
 (las imagenes no seran actualizadas frecuemtemente rn)
+
+omegalinux old releases: https://github.com/izaxYT14538/iddyQ
