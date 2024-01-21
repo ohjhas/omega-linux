@@ -1,7 +1,7 @@
 # OmegaLinux
 OmegaLinux
 
-Requisitos minimos:
+Requisitos mínimos:
 1 gb de ram
 Procesador 1 nucleo 1 ghz
 17 gb de disco
@@ -21,4 +21,4 @@ Procesador un solo nucleo de 1.5 ghz o mas
 
 
 
-(Las imagenes no seran actualizadas frecuentemente)
+(Las imágenes no serán actualizadas frecuentemente)
