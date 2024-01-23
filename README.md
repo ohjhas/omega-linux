@@ -3,13 +3,19 @@ https://ohjhas.github.io/omega-linux/
 
 # Requisitos mínimos:
 1 gb de ram
+
 Procesador 1 nucleo 1 ghz
+
 17 gb de disco
+
 
 # Requisitos recomendados:
 1.5 GB De RAM o mas
+
 Procesador un solo nucleo de 1.5 ghz o mas
+
 25 GB de disco duro o mas
+
 
 # Capturas
 
