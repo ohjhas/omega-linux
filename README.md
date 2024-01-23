@@ -1,5 +1,5 @@
 # OmegaLinux - Distribucion de Linux Ligera Basada en Ubuntu
-https://ohjhas.github.io/omega-linux/
+https://ohjhas.github.io/omega-linux/home.html
 
 # Requisitos mínimos:
 1 gb de ram
