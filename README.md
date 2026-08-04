@@ -1,2 +1,2 @@
-# moved
-moved to https://github.com/omega-linux/page
+# Releases
+ISOs will be released here. github.com/omega-linux/releases/releases/latest
